@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/b82f5ae24a.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <section>
+            <div class="header">
+                <div class="logotipo">
+                    <img src="img/logotipo.png">
+                </div>
+                <div class="menu">
+                    <ul class="menuitem">
+                        <li>
+                            <a href="index.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="filmes.html">Filmes</a>
+                        </li>
+                        <li>
+                            <a href="series.html">Séries</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+                <div class="suporte hover">
+                    <a href="https://wa.me/554499999999" target="_blank">
+                        <i class="fa-brands fa-whatsapp"></i>
+                        Suporte: (44) 999 999 999
+                    </a>
+                </div>
+            </div>
+        </section>
+    </header>
+    <h1>Bem vindo ao AlfaPlus</h1> 
+    <div class="slider">
+       
+
+    </div>
+</body>
+
+</html>
